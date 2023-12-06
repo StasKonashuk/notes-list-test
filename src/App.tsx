@@ -115,7 +115,7 @@ function App() {
   });
 
   return (
-    <Stack minWidth="100%" paddingTop="150px" gap="20px" alignItems="center">
+    <Stack minWidth="100%" paddingTop="150px" paddingBottom="150px" gap="20px" alignItems="center">
       <Typography variant="h3" component="h3">
         Notes List
       </Typography>
